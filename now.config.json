@@ -1,0 +1,6 @@
+{
+  "scope": "x_1599224_game_zon",
+  "scopeId": "bd4164df8334721016619565eeaad39c",
+  "name": "Game Zone",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
